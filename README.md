@@ -1,1 +1,1 @@
-# BERT_MODEL_COVID_19
+# Bert_by_my_own
